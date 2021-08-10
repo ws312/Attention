@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7510b47f-9604-4f90-8ef7-60f8eefbe1c7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/CBAM.PyTorch/demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CBAM.PyTorch/my.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ECANet/eca_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ECANet/eca_weixin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ECANet/resnet18_model" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EPSANet/models/1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Grad_CAM/cam_module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Grad_CAM/demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Grad_CAM/demo2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Grad_CAM/my_op" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SENet-PyTorch/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SENet-PyTorch/SE_Module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SENet-PyTorch/Senet_pytorch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SENet-PyTorch/demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/attention-module/MODELS/my.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/attention-module/my_bam.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/attention-module/my_op" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/danet-pytorch/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/danet-pytorch/demo1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/danet-pytorch/demo2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CBAM.PyTorch/data_loader/ImageNet_datasets.py" beforeDir="false" afterPath="$PROJECT_DIR$/CBAM.PyTorch/data_loader/ImageNet_datasets.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CBAM.PyTorch/model/resnet_cbam.py" beforeDir="false" afterPath="$PROJECT_DIR$/CBAM.PyTorch/model/resnet_cbam.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CBAM.PyTorch/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/CBAM.PyTorch/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CBAM.PyTorch/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/CBAM.PyTorch/train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CBAM.PyTorch/trainer/trainer.py" beforeDir="false" afterPath="$PROJECT_DIR$/CBAM.PyTorch/trainer/trainer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CBAM.PyTorch/utils/logger.py" beforeDir="false" afterPath="$PROJECT_DIR$/CBAM.PyTorch/utils/logger.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECANet/models/eca_module.py" beforeDir="false" afterPath="$PROJECT_DIR$/ECANet/models/eca_module.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECANet/models/eca_ns.py" beforeDir="false" afterPath="$PROJECT_DIR$/ECANet/models/eca_ns.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECANet/models/eca_resnet.py" beforeDir="false" afterPath="$PROJECT_DIR$/ECANet/models/eca_resnet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECANet/paras_flops.py" beforeDir="false" afterPath="$PROJECT_DIR$/ECANet/paras_flops.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EPSANet/models/epsanet.py" beforeDir="false" afterPath="$PROJECT_DIR$/EPSANet/models/epsanet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grad_CAM/cam.py" beforeDir="false" afterPath="$PROJECT_DIR$/Grad_CAM/cam.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grad_CAM/pytorch_grad_cam/activations_and_gradients.py" beforeDir="false" afterPath="$PROJECT_DIR$/Grad_CAM/pytorch_grad_cam/activations_and_gradients.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grad_CAM/pytorch_grad_cam/base_cam.py" beforeDir="false" afterPath="$PROJECT_DIR$/Grad_CAM/pytorch_grad_cam/base_cam.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grad_CAM/pytorch_grad_cam/grad_cam.py" beforeDir="false" afterPath="$PROJECT_DIR$/Grad_CAM/pytorch_grad_cam/grad_cam.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grad_CAM/pytorch_grad_cam/utils/image.py" beforeDir="false" afterPath="$PROJECT_DIR$/Grad_CAM/pytorch_grad_cam/utils/image.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grad_CAM/usage_examples/swinT_example.py" beforeDir="false" afterPath="$PROJECT_DIR$/Grad_CAM/usage_examples/swinT_example.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SENet-PyTorch/read_ImageNetData.py" beforeDir="false" afterPath="$PROJECT_DIR$/SENet-PyTorch/read_ImageNetData.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SENet-PyTorch/se_resnet.py" beforeDir="false" afterPath="$PROJECT_DIR$/SENet-PyTorch/se_resnet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SENet-PyTorch/se_resnext.py" beforeDir="false" afterPath="$PROJECT_DIR$/SENet-PyTorch/se_resnext.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SENet-PyTorch/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/SENet-PyTorch/train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attention-module/MODELS/bam.py" beforeDir="false" afterPath="$PROJECT_DIR$/attention-module/MODELS/bam.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attention-module/MODELS/cbam.py" beforeDir="false" afterPath="$PROJECT_DIR$/attention-module/MODELS/cbam.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attention-module/MODELS/model_resnet.py" beforeDir="false" afterPath="$PROJECT_DIR$/attention-module/MODELS/model_resnet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attention-module/train_imagenet.py" beforeDir="false" afterPath="$PROJECT_DIR$/attention-module/train_imagenet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attention_map_visualization/debug.py" beforeDir="false" afterPath="$PROJECT_DIR$/attention_map_visualization/debug.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attention_map_visualization/figs/attention/version2_example_without_attention.png" beforeDir="false" afterPath="$PROJECT_DIR$/attention_map_visualization/test_data/version2_example_without_attention.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attention_map_visualization/grid_attention_example.py" beforeDir="false" afterPath="$PROJECT_DIR$/attention_map_visualization/grid_attention_example.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attention_map_visualization/region_attention_example.py" beforeDir="false" afterPath="$PROJECT_DIR$/attention_map_visualization/region_attention_example.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attention_map_visualization/test_data/test_image_with_attention.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/attention_map_visualization/test_data/test_image_with_attention.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attention_map_visualization/visualize_attention_map/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/attention_map_visualization/visualize_attention_map/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attention_map_visualization/visualize_attention_map/debug.py" beforeDir="false" afterPath="$PROJECT_DIR$/attention_map_visualization/visualize_attention_map/debug.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/danet-pytorch/danet/backbone.py" beforeDir="false" afterPath="$PROJECT_DIR$/danet-pytorch/danet/backbone.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/danet-pytorch/danet/danet.py" beforeDir="false" afterPath="$PROJECT_DIR$/danet-pytorch/danet/danet.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/CBAM.PyTorch" />
+  </component>
+  <component name="ProjectId" id="1wWSfpvzOsNzio5f0RCy0liD5u0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../detection-toolbox" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7510b47f-9604-4f90-8ef7-60f8eefbe1c7" name="Default Changelist" comment="" />
+      <created>1628572959224</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1628572959224</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="576" y="353" width="628" height="402" key="#Notifications" timestamp="1628573638740">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="576" y="353" width="628" height="402" key="#Notifications/67.27.1853.1053@67.27.1853.1053" timestamp="1628573638740" />
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1628576696972">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1628576696972" />
+    <state x="807" y="448" key="Github.ShareDialog" timestamp="1628576349988">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="807" y="448" key="Github.ShareDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1628576349988" />
+    <state x="764" y="176" width="449" height="752" key="Github.UntrackedFilesDialog" timestamp="1628576361982">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="764" y="176" width="449" height="752" key="Github.UntrackedFilesDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1628576361982" />
+  </component>
+</project>

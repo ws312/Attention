@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CBAM.PyTorch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CCNet" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CoordAttention" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DANet" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ECANet" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/EPSANet" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Grad_CAM" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SENet-PyTorch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SimAM" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/attention-module" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/attention_map_visualization" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/danet-pytorch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/senet.pytorch" vcs="Git" />
+  </component>
+</project>
